@@ -18,3 +18,5 @@ Você foi contratado por uma startup fictícia chamada Logify, que está no iní
 * O ambiente inicial será de desenvolvimento (dev), mas a configuração deve ser reutilizável para produção no futuro.
 * O uso de recursos deve ser limitado à região us-east-1 por motivos de custo.
 * A empresa espera uma estrutura modular no futuro, mas aceita algo simples para começar.
+
+![image](https://github.com/user-attachments/assets/e7079ae2-56d3-4d81-a06f-50df744521ff)
