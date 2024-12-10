@@ -1,6 +1,6 @@
 **Sigo aprendendo usar Terraform com Cenários Simulados criados pelo CHATGPT.**
 
-Dessa vez, usei o Terraform para criar a configuração de um Bucket S3 para Armazenamento de Logs com ACL 
+Dessa vez usei o Terraform para criar a configuração de um Bucket S3 para Armazenamento de Logs com ACL 
 
 Sei que há muito que melhorar, mas só chega lá, quem não desiste.
 
